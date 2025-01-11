@@ -1,1 +1,1 @@
-# landing-page2
+Just another solution for the landing page task for The Odin Project!

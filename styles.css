@@ -21,7 +21,7 @@ body{
 .header-link{
     font-size: 18px;
     color: #E5E7EB;
-    margin: 10px;
+    margin: 15px;
 }
 
 .navbar{
@@ -149,4 +149,62 @@ h3{
     justify-content: flex-end;
     margin-left: 400px;
     margin-top: 20px;
+}
+
+.fourth-section{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container{
+    background-color: #3882f6;
+    width: 75%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+}
+
+.left{
+    width: 80%;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h4{
+    font-size: 28px;
+    color:#E5E7EB;
+}
+
+.last-p{
+    color: aliceblue;
+    font-size: 16px;
+}
+
+.right{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.btn-last-div{
+    background-color: #3882f6;
+    color: white;
+    width: 80px;
+    height: 25px;
+    margin-right: 265px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: white;
+    align-items: center;
+    height: 70px;
 }
