@@ -88,3 +88,36 @@ img{
     border: 1px #3882f6;
     border-radius: 10px;
 }
+
+h2{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+}
+
+.blue-div-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 80px;
+    align-items: center;
+}
+
+.box-blue{
+    border: 3px solid #3882f6;
+    width: 190px;
+    height: 190px;
+    border-radius: 20px;
+}
+
+.second-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.p-second{
+    text-align: center;
+    font-size: 16px;
+}
